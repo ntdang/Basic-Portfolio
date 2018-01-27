@@ -1,8 +1,6 @@
 body {
   width: 960px;
-
 }
-
 
 #name {
   background-color: #4aaaa5;
@@ -26,10 +24,12 @@ p {
 #content {
   width: 650px;
   float: left;
+  background-color: white;
 }
 
 #connect {
   float: right;
   width: 270px;
   color: #4aaaa5;
+  background-color: white;
 }
