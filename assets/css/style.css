@@ -1,0 +1,35 @@
+body {
+  width: 960px;
+
+}
+
+
+#name {
+  background-color: #4aaaa5;
+  color: white;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+
+}
+
+h2 {
+  color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#content {
+  width: 650px;
+  float: left;
+}
+
+#connect {
+  float: right;
+  width: 270px;
+  color: #4aaaa5;
+}
