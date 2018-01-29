@@ -1,5 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  display: inline;
+  float: right;
 }
 
 #name {
@@ -8,8 +18,8 @@ body {
   font-family: 'Georgia', Times, Times New Roman, serif;
   width: 100px;
   height: 50px;
+  padding: 8px 15px 25px 15px;
   text-align: center;
-
 }
 
 h2 {
@@ -33,4 +43,25 @@ p {
   color: #4aaaa5;
   background-color: white;
   text-align: center;
+  padding: 10px 0px 30px 0px;  
+}
+
+.profilepic {
+  float: left
+}
+
+#button {
+  background-color: #4aaaa5;
+  color: white;
+}
+
+#footer {
+  background-color: #666666;
+  position: fixed;
+  bottom: 0%;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  text-align: center;
+  padding: 15px;
 }
