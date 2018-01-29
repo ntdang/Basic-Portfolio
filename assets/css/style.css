@@ -73,12 +73,14 @@ p {
 
 #footer {
   background-color: #666666;
+  color: lightgray;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   position: fixed;
   bottom: 0%;
   right: 0%;
   left: 0%;
   width: 100%;
   text-align: center;
-  padding: 15px;
+  padding: 35px;
   border-top: #4aaaa5 8px solid;
 }
