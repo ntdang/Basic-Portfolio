@@ -62,7 +62,7 @@ h2 {
 }
 
 #connect {
-  float: right;
+  float: left;
   width: 250px;
   color: #4aaaa5;
   background-color: white;
@@ -71,6 +71,7 @@ h2 {
   text-align: center;
   padding: 10px;
   margin-top: 115px;
+  margin-left: 254px;
 }
 
 .profilepic {
