@@ -85,6 +85,11 @@ h2 {
   font-size: small;
 }
 
+.placeholders {
+  padding: 30px;
+  width: 40%;
+}
+
 #footer {
   background-color: #666666;
   color: #cccccc;
