@@ -22,7 +22,8 @@ h1 {
   color: white;
   font-family: 'Georgia', Times, Times New Roman, serif;
   padding: 25px;
-  margin: 0 0 0 -150px;
+  /* margin: 0 0 0 -150px; */
+  margin: 0;
   display: inline-block;
   text-align: center;
 }
@@ -38,7 +39,7 @@ h2 {
   line-height: 50px;
 }
 
-.container-holder {
+.container {
   width: 960px;
   margin: 0 auto;
 }
@@ -62,7 +63,7 @@ h2 {
 }
 
 #connect {
-  float: left;
+  float: right;
   width: 250px;
   color: #4aaaa5;
   background-color: white;
@@ -71,7 +72,7 @@ h2 {
   text-align: center;
   padding: 10px;
   margin-top: 115px;
-  margin-left: 254px;
+  /* margin-left: 254px; */
 }
 
 .profilepic {
